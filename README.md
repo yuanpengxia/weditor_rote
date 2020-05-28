@@ -1,5 +1,6 @@
 "# weditor_rote" 
 "# weditor_rote" 
+https://github.com/openatx/weditor
 仅支持谷歌浏览器
 安装weditor:
 pip3 install --upgrade weditor
